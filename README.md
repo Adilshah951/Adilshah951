@@ -80,15 +80,10 @@ I am a **Cyber Security Engineer & Penetration Tester** specializing in offensiv
 
 ### 📊 GitHub Activity & Metrics
 
+<!-- NOTE: Replace 'YOUR_USERNAME' with your actual GitHub username below -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" height="150" alt="Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" height="150" alt="Streak" />
+  <img src="https://img.shields.io/badge/GitHub_Status-Active_Developer-00ff88?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Status" />
+  <img src="https://img.shields.io/badge/Security_Labs-Audited-blueviolet?style=for-the-badge&logo=git&logoColor=white" alt="Security Labs" />
 </div>
 
 ---
