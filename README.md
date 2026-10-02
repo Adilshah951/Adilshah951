@@ -5,23 +5,23 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" /></a>
+  <a href="https://linkedin.com/in/adil-shah"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" /></a>
   <img width="6" />
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter logo" /></a>
+  <a href="https://twitter.com/adilshah_sec"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter logo" /></a>
   <img width="6" />
-  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME"><img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=FF2E51&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="tryhackme logo" /></a>
+  <a href="https://tryhackme.com/p/adilshah"><img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=FF2E51&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="tryhackme logo" /></a>
   <img width="6" />
-  <a href="https://hackthebox.com/p/YOUR_HTB_USERNAME"><img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=9FEF00&logoColor=black&labelColor=&style=for-the-badge" height="28" alt="hackthebox logo" /></a>
+  <a href="https://hackthebox.com/p/adilshah"><img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=9FEF00&logoColor=black&labelColor=&style=for-the-badge" height="28" alt="hackthebox logo" /></a>
   <img width="6" />
-  <a href="mailto:your.email@security.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="email logo" /></a>
+  <a href="mailto:adil.shah@cybersecurity.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="email logo" /></a>
 </div>
 
 ###
 
-<h1 data-importer="text" align="center">🛡️ System Breach Initialized: Welcome to My Cyber Profile</h1>
+<h1 data-importer="text" align="center">🛡️ System Breach Initialized: Welcome to Adil Shah's Profile</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Ethical+Hacker+%7C+Penetration+Tester;SOC+Analyst+%7C+Threat+Hunter;Malware+Analysis+%26+Reverse+Engineering;Bug+Bounty+Hunter+%7C+SecOps" alt="Cyber Security Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Adil+Shah+%7C+Cyber+Security+Specialist;Ethical+Hacker+%7C+Penetration+Tester;SOC+Analyst+%7C+Threat+Hunter;Bug+Bounty+Hunter+%7C+SecOps" alt="Adil Shah Cyber Security Typing" />
 </div>
 
 ###
@@ -31,12 +31,12 @@
 ###
 
 <p data-importer="text" align="left">
-I am a passionate <b>Cyber Security Specialist & Ethical Hacker</b> dedicated to securing digital infrastructure, assessing vulnerabilities, and analyzing cyber threats.<br><br>
+Hello! I am <b>Adil Shah</b>, a passionate <b>Cyber Security Specialist & Ethical Hacker</b> dedicated to securing digital infrastructure, testing network vulnerabilities, and hunting security bugs.<br><br>
 - 🔭 <b>I’m currently working on:</b> Automated Vulnerability Scanners & Active Directory Pentesting Labs<br>
 - 📚 <b>I'm currently learning:</b> Advanced Malware Reverse Engineering & Cloud Security Architecture (AWS/Azure)<br>
-- 🎯 <b>Core Focus:</b> Web App Pentesting, Network Security, Forensics & Incident Response<br>
+- 🎯 <b>Core Focus:</b> Web Application Security, Network Pentesting & Threat Detection<br>
 - 🏆 <b>Certifications:</b> CompTIA Security+ | eJPT | OSCP (In Progress)<br>
-- ⚡ <b>In my free time:</b> Solving CTFs on TryHackMe/HackTheBox, hunting bug bounties, and writing security tools in Python & Go
+- ⚡ <b>In my free time:</b> Solving CTFs on TryHackMe/HackTheBox, hunting bug bounties, and writing security scripts in Python & Go
 </p>
 
 ###
